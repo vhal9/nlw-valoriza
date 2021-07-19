@@ -90,6 +90,9 @@ web_modules/
 # DynamoDB Local files
 .dynamodb/
 
+# Sqlite db
+*.sqlite
+
 # TernJS port file
 .tern-port
 
